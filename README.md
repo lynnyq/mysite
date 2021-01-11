@@ -1,0 +1,2 @@
+# mysite
+hugo site conf
